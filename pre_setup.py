@@ -30,7 +30,7 @@ DEVEL_TEST_DRIVERS = {
         "number_sampling_timesteps": 100,
         "repeat": (4, 4, 4),
         "msd_threshold": 0.1,
-        "lammps_command": "mpirun -np 4 lmp_mpi",
+        "lammps_command": "mpirun -np 2 lmp_mpi",
         "random_seed": 1
     }
 }
