@@ -24,7 +24,7 @@ OPENKIM_TEST_DRIVERS = {
 # List of URLs of development Test Drivers to test
 DEVEL_TEST_DRIVERS = {
     "https://github.com/openkim-hackathons/NPTCrystalStructure/archive/refs/tags/v000b0.tar.gz": {
-        "temperature_K": 300.0, 
+        "temperature_K": 300.0,
         "cell_cauchy_stress_eV_angstrom3": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
         "timestep": 0.001,
         "number_sampling_timesteps": 100,
