@@ -22,7 +22,7 @@ OPENKIM_TEST_DRIVERS = {
 }
 
 # List of URLs of development Test Drivers to test
-DEVEL_TEST_DRIVERS = {}
+DEVEL_TEST_DRIVERS = {"https://github.com/openkim-hackathons/NPTCrystalStructure/archive/refs/tags/v000b0.tar.gz"}
 
 MAX_URLLIB_ATTEMPTS = 10
 
